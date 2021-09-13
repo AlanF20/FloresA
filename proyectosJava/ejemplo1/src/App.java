@@ -10,6 +10,6 @@ public class App {
             b=s;
             i++;
         }while(i<c);
-
+        System.out.println("Alan Israel Flores Cabrera 19100179");
     }
 }
